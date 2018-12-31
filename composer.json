@@ -5,7 +5,8 @@
   "keywords": ["Data", "Database", "Data manager", "UDMS", "Sql", "NoSQL", "mongodb", "datahub", "composer", "OliveCMS"],
   "require": {
     "php": ">=5.5",
-    "olive-cms/tools": "^1.1"
+    "olive-cms/tools": "^1.1",
+    "mongodb/mongodb": "^1.4"
   },
   "autoload": {
     "psr-4": {
